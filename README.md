@@ -13,17 +13,9 @@
 - **Backend**: NestJS, Node.js, Rust
 - **Frontend**: Next.js, React
 
-## Technical Stack ⚡
-
 ---
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CMK-13&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CMK-13&theme=dark&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CMK-13&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CMK-13&theme=dark&hide_border=true"/>
+</div>
