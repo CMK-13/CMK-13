@@ -1,16 +1,23 @@
-## Hi there 👋
+# CMK 👨‍💻 Blockchain Developer
 
-<!--
-**CMK-13/CMK-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Core Competencies 🚀
 
-Here are some ideas to get you started:
+### Blockchain Development
+- Smart Contract Development (Solidity, Rust)
+- Web3.js Integration
+- Blockchain Architecture Design
+- DApp Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Development
+- **Languages**: C/C++, Python, JavaScript/TypeScript
+- **Backend**: NestJS, Node.js, Rust
+- **Frontend**: Next.js, React
+
+## Technical Stack ⚡
+
+---
+
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CMK-13&show_icons=true&theme=dracula&count_private=true&hide_border=true"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CMK-13&theme=dracula&hide_border=true"/>
+</div>
