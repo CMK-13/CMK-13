@@ -1,7 +1,5 @@
 # CMK 👨‍💻 Blockchain Developer
 
-## Core Competencies 🚀
-
 ### Blockchain Development
 - Smart Contract Development (Solidity, Rust)
 - Web3.js Integration
@@ -16,6 +14,5 @@
 ---
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CMK-13&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CMK-13&theme=dark&hide_border=true"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CMK-13&show_icons=true&theme=dark&count_private=true&hide_border=true"/>
 </div>
