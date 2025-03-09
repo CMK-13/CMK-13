@@ -7,7 +7,7 @@
 - DApp Development
 
 ### Software Development
-- **Languages**: C/C++, Python, JavaScript/TypeScript
+- **Languages**: C/C++, Python, JavaScript/TypeScript, SQL
 - **Backend**: NestJS, Node.js, Rust
 - **Frontend**: Next.js, React
 
