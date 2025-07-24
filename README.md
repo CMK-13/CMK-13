@@ -1,4 +1,4 @@
-# CMK 👨‍💻 Blockchain Developer
+# CMK 👨‍💻 Quantitative Researcher | Defi researcher | Backend Developer
 
 ### Blockchain Development
 - Smart Contract Development (Solidity, Rust)
