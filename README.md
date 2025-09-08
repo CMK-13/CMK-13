@@ -4,12 +4,10 @@
 - Smart Contract Development (Solidity, Rust)
 - Web3.js Integration
 - Blockchain Architecture Design
-- DApp Development
 
 ### Software Development
-- **Languages**: C/C++, Python, JavaScript/TypeScript, SQL
+- **Languages**: C/C++, Python, JavaScript/TypeScript, SQL, Rust
 - **Backend**: NestJS, Node.js, Rust
-- **Frontend**: Next.js, React
 
 ---
 
