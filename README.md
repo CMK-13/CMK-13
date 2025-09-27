@@ -11,6 +11,5 @@
 
 ---
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmk-13&show_icons=true&locale=en&layout=compact" alt="cmk-13" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmk-13&show_icons=true&locale=en" alt="cmk-13" /></p>
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=cmk-13&" alt="cmk-13" /></p>
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cmk-13&show_icons=true&locale=en&layout=compact" alt="cmk-13" /> | <img src="https://github-readme-stats.vercel.app/api?username=cmk-13&show_icons=true&locale=en" alt="cmk-13" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmk-13&" alt="cmk-13" /> |
+|---|---|---|
